@@ -1,0 +1,10 @@
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.exe.config
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.exe
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.pdb
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\obj\Debug\Contact_Tracing.Form1.resources
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\obj\Debug\Contact_Tracing.Properties.Resources.resources
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.exe
+C:\Users\justi\Desktop\Contact Tracing Form\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.pdb
